@@ -88,12 +88,10 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: 'transparent',
     marginLeft: 10,
-    //width: 40,
   },
   collectionButton: {
     backgroundColor: 'transparent',
     marginRight: 10,
-    //width: 40,
   },
   commentButton: {
     color: '#707070',
